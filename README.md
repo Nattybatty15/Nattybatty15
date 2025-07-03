@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi I'm Nat! 🦖
+## I love dinosaurs and the ocean 🐬
 
 <!--
 **Nattybatty15/Nattybatty15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
